@@ -1,0 +1,17 @@
+C:\Users\pedro\source\repos\consumer\bin\Debug\net8.0\consumer.exe
+C:\Users\pedro\source\repos\consumer\bin\Debug\net8.0\consumer.deps.json
+C:\Users\pedro\source\repos\consumer\bin\Debug\net8.0\consumer.runtimeconfig.json
+C:\Users\pedro\source\repos\consumer\bin\Debug\net8.0\consumer.dll
+C:\Users\pedro\source\repos\consumer\bin\Debug\net8.0\consumer.pdb
+C:\Users\pedro\source\repos\consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.AssemblyInfo.cs
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.csproj.Up2Date
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.dll
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\refint\consumer.dll
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.pdb
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\consumer.genruntimeconfig.cache
+C:\Users\pedro\source\repos\consumer\obj\Debug\net8.0\ref\consumer.dll
